@@ -38,9 +38,9 @@ The ultimate objective of this project is to communicate that investments in foo
  
  <p float="left">
 <img src="screenshots/dashboard.png" width=250/>
-<img src="screenshots/donate.png" width=250/>
+<!-- <img src="screenshots/donate.png" width=250/>
 <img src="screenshots/donations.png" width=250/>
-<img src="screenshots/foodmap.png" width=250/>
+<img src="screenshots/foodmap.png" width=250/> -->
   </p>
   
   ## Support
